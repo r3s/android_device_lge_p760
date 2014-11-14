@@ -1,20 +1,20 @@
 [
     {
         "remote": "github",
-        "repository": "Rammar515/android_device_lge_u2-common",
+        "repository": "AOSPA-L9/android_device_lge_u2-common",
         "target_path": "device/lge/u2-common",
         "revision": "kitkat"
     },
     {
         "remote": "github",
-        "repository": "Rammar515/android_kernel_lge_u2",
+        "repository": "AOSPA-L9/android_kernel_lge_u2",
         "target_path": "kernel/lge/u2",
         "revision": "kitkat"
     },
     {
         "remote": "github",
-        "repository": "Rammar515/proprietary_vendor_lge_u2",
+        "repository": "AOSPA-L9/proprietary_vendor_lge_u2",
         "target_path": "vendor/lge/u2",
         "revision": "kitkat"
-    },
+    }
 ]
